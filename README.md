@@ -17,6 +17,7 @@
 ###
 
 ```dart
+
 import 'dev-community:india/flutter-devs';
 class Desc extends SoftwareDeveloper {
   static final String name = "Divya Sakariya";
@@ -24,11 +25,22 @@ class Desc extends SoftwareDeveloper {
   dynamic location = "Gujarat, India";
   @override
   getSkill(){
-    List<skills> languages = ['c','c++','Dart','PHP'];
-    List<skills> software = ['figma','Adobe photoshop','Android Studio'];
+    List<skills> languages = ['C','C++','Dart','PHP','API','DSA'];
+    List<skills> software = ['Android Studio','Figma','Adobe Photoshop'];
     List<skills> tools = ['Flutter','Firebase','Database'];
   }
 }
+
+```
+
+```css
+
+- 🔭 I'm currently working on Flutter Application Development...
+
+- 💬 Ask me about anything which confused you in DSA or FLUTTER
+
+- 📫 How to reach me **diyasakariya1227@gmail.com**
+
 ```
 
 <img align="right" height="150" src="https://cdn.pnghd.pics/data/14/coding-gif-24.gif"  />
