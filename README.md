@@ -27,7 +27,7 @@ class Desc extends SoftwareDeveloper {
   getSkill(){
     List<skills> languages = ['C','C++','Dart','PHP','API','DSA'];
     List<skills> software = ['Android Studio','Figma','Adobe Photoshop'];
-    List<skills> tools = ['Flutter','Firebase','Database'];
+    List<skills> tools = ['Flutter','FireBase','DataBase','Dart','PHP-API','ASO'];
   }
 }
 
